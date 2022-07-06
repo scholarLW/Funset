@@ -1,0 +1,13 @@
+Package: Funset
+Type: Package
+Title: A toolkit that combines multiple functions
+Version: 1.0
+Date: 2019-06-18
+Author: Wen Luo
+Maintainer: Wen Luo <luokmhd@foxmail.com>
+Description: a tools which applied multiple functions to accurately mathematical problems
+License: GPL-2
+LazyLoad: yes
+NeedsCompilation: yes
+Packaged: 2019-07-19 16:25:02 UTC; luow
+Depends: MASS
